@@ -1,3 +1,3 @@
-# Django - Next - Redux Starter Project
+# Django - Next - Redux
 
-Django with nextjs and redux toolkit
+Python Body reaction score
